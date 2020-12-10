@@ -1,3 +1,0 @@
-[submodule "blog-src/themes/ananke"]
-	path = blog-src/themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
