@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://ashres-try-blog.onrender.com"
 languageCode = "en-us"
 title = "Testing Dev Blog"
 theme = "ananke"
