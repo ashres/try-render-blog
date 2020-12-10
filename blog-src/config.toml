@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Testing Dev Blog"
+theme = "ananke"
+publishDir = "../public"
